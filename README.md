@@ -41,4 +41,4 @@ LOAD DATA INFILE ‘Nama_backup_file’ INTO TABLE nama_table ;
 Tulisakan script cron job untuk melakukan backup otomatis setiap hari minggu jam 12 malam !
 crontab –e
 
-00**7myqldump -u root -p irga_312010067>irga_312010067_backup.sql
+00**7myqldump -u root -p didi_kumaedi_312010002>didi_kumaedi_312010002_backup.sql
